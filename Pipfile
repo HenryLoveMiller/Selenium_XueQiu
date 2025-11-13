@@ -8,6 +8,8 @@ selenium = "*"
 beautifulsoup4 = "*"
 lxml = "*"
 flask = "*"
+setuptools = "*"
+undetected-chromedriver = "*"
 
 [dev-packages]
 
